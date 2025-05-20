@@ -22,3 +22,12 @@ A secure file sharing web application built using **Node.js**, **Express**, **Mo
 4. **Secure Download Links** (Firebase Signed URLs)
 5. **UI with Drag & Drop Upload**
 6. **Dark Mode Enabled**
+
+
+![Screenshot (664)](https://github.com/user-attachments/assets/f6fe053d-61df-4b3e-bab4-933044faac00)
+
+
+![image](https://github.com/user-attachments/assets/18ba8ec5-f9ad-4385-a5dd-16785ee3db8c)
+
+
+
